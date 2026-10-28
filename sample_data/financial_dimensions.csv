@@ -1,0 +1,9 @@
+Date,Country,Region,Product,Category,Department,Actual,Budget,Currency
+2025-01-01,France,West,Product A,Subscriptions,Sales,120000,115000,EUR
+2025-01-01,Germany,Central,Product B,Services,Sales,96000,99000,EUR
+2025-02-01,France,West,Product B,Services,Sales,132000,128000,EUR
+2025-02-01,Germany,Central,Product A,Subscriptions,Sales,102000,105000,EUR
+2026-01-01,France,West,Product A,Subscriptions,Sales,140000,135000,EUR
+2026-01-01,Germany,Central,Product B,Services,Sales,103000,106000,EUR
+2026-02-01,France,West,Product B,Services,Sales,145000,143000,EUR
+2026-02-01,Germany,Central,Product A,Subscriptions,Sales,112000,113000,EUR

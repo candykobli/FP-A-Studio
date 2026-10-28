@@ -1,0 +1,5 @@
+[
+  {" Month ": "2026-01-01", " Net Sales ": " 100 ", "Sales Budget": "110", "Region": " France ", "Currency": " eur "},
+  {" Month ": "2026-02-01", " Net Sales ": "200", "Sales Budget": "", "Region": "France", "Currency": "eur"},
+  {" Month ": "2026-01-01", " Net Sales ": "75", "Sales Budget": "80", "Region": "Germany", "Currency": "eur"}
+]

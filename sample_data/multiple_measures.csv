@@ -1,0 +1,5 @@
+date,entity,revenue,revenue_budget,expenses,expenses_budget,currency
+2026-01-01,France,120000,115000,80000,78000,EUR
+2026-02-01,France,132000,128000,85000,82000,EUR
+2026-01-01,Germany,96000,99000,65000,66000,EUR
+2026-02-01,Germany,102000,105000,69000,70000,EUR

@@ -1,0 +1,6 @@
+[
+ {"period":"2025-01-01","department":"Operations","actual_expense":-41000,"planned_expense":-40000,"currency":"EUR"},
+ {"period":"2025-02-01","department":"Operations","actual_expense":-42000,"planned_expense":-41000,"currency":"EUR"},
+ {"period":"2026-01-01","department":"Operations","actual_expense":-45000,"planned_expense":-44000,"currency":"EUR"},
+ {"period":"2026-02-01","department":"Operations","actual_expense":-47000,"planned_expense":-46000,"currency":"EUR"}
+]
